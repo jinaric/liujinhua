@@ -1,6 +1,6 @@
 # liujinhua
 project's name
-rdsfsdsdfsfs 
+rdsfsd
 ric is good
 hfuishf sdfhjskh
 bsbfj
@@ -20,7 +20,7 @@ fdksjsfjks
 
 # liujinhua
 project's name
-ric is sdf
+ric is stuip
 ric is good
 hfuishf sdfhjskh
 bsbfj
